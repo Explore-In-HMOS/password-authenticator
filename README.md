@@ -1,3 +1,5 @@
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
+
 # Password Authenticator
 
 Password Authenticator is a demo app that generates time-based one-time passcodes (OTPs) for secure user authentication,
